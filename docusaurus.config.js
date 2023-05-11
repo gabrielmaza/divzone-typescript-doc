@@ -77,7 +77,7 @@ const config = {
             label: "Tutorial",
           },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/gabrielmaza/divzone-typescript",
             label: "GitHub",
             position: "right",
           },

@@ -20,7 +20,7 @@ Make sure to install the necessary dependencies and tools before using the templ
 
 ## Install and run the project
 
-- Clone the repository or download the source code and extract it to a folder on your computer.
+- Clone the repository or download the source code and extract it to a folder on your computer: **https://github.com/gabrielmaza/divzone-typescript**
 - Open a terminal or command prompt and navigate to the root directory of the project.
 - Install the necessary dependencies by running `npm install` or `yarn install` in the terminal.
 - Once the installation is complete, start the development server by running `npm run dev` or `yarn dev` in the terminal.

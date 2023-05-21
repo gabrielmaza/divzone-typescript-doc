@@ -10,7 +10,7 @@ Customizing Tailwind CSS with Config File **tailwind.config.cjs**.
 
 This is a **Tailwind CSS configuration file** written in CommonJS format. It exports an object with several properties to customize the Tailwind CSS styling.
 
-    divzone-typescript/
+    divzone-nextjs-theme/
     ├── tailwind.config.cjs
 
 The content property specifies the files that Tailwind should scan to find CSS classes used in the project. Here, it is set to scan all .js, .ts, .jsx, and .tsx files in the ./src directory and the ./index.html file.

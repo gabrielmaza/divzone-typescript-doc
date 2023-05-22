@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Getting Started
 
-Getting started with **DivZone Template**.
+Getting started with **DivZone Nextjs Theme**.
 
 ---
 
-Introducing our **new customizable landing page template**, designed to showcase your brand and drive conversions. Built with React, Tailwind CSS, TypeScript, and Vite, this template provides a modern and efficient way to build your online presence.
+Introducing our **new customizable landing page template**, designed to showcase your brand and drive conversions. Built with Next.js, Tailwind CSS and TypeScript, this template provides a modern and efficient way to build your online presence.
 
 ## System requirements
 
@@ -20,7 +20,7 @@ Make sure to install the necessary dependencies and tools before using the templ
 
 ## Install and run the project
 
-- Clone the repository or download the source code and extract it to a folder on your computer: **https://github.com/gabrielmaza/divzone-typescript**
+- Clone the repository **https://github.com/gabrielmaza/divzone-nextjs-theme** or download the source code and extract it to a folder on your computer.
 - Open a terminal or command prompt and navigate to the root directory of the project.
 - Install the necessary dependencies by running `npm install` or `yarn install` in the terminal.
 - Once the installation is complete, start the development server by running `npm run dev` or `yarn dev` in the terminal.

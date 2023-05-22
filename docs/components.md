@@ -10,13 +10,14 @@ Learn about the **DivZone components**.
 
 The **components folder** in your project contains reusable UI components that make up the main sections of your landing page. Components are like building blocks that can be combined and customized to create different pages and layouts. By using components, you can maintain a consistent look and feel across your website, and save time and effort by not having to repeat the same code multiple times.
 
-    divzone-typescript/
+    divzone-nextjs-theme/
     └── src
-        ├── components
+        └── app
+            ├── components
 
 Each component in the components folder is designed to be modular and independent, with its own set of props and styles. Some components may contain other components as children, creating a nested hierarchy that mirrors the structure of your page. Other components may be simple and self-contained, such as a button or an icon.
 
-In the following sections, we'll take a closer look at each component in the components folder, and explain how to use and customize them. Whether you're new to React or an experienced developer, you'll find these components easy to understand and work with.
+<!-- In the following sections, we'll take a closer look at each component in the components folder, and explain how to use and customize them. Whether you're new to React or an experienced developer, you'll find these components easy to understand and work with.
 
 ## Navbar
 
@@ -92,4 +93,4 @@ The benefits array contains three objects, each representing a benefit to be dis
 
 The index component returns a section element that contains two motion.div elements. The first element contains a header with an HText component and a paragraph element. The second element contains a group of Benefit components that are created using the benefits array, and an image with a description that uses an HText component.
 
-The entire component takes a single prop, setSelectedPage, a function that sets the selected page to the benefits page when called. Overall, the component is a reusable section that can be easily styled and populated with different benefits.
+The entire component takes a single prop, setSelectedPage, a function that sets the selected page to the benefits page when called. Overall, the component is a reusable section that can be easily styled and populated with different benefits. -->
